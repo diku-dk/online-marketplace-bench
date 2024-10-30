@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme
 title: The Online Marketplace microservice benchmark
 description: General information and collection of references about the Online Marketplace microservice benchmark.
+github:
+  zip_url: https://github.com/diku-dk/EventBenchmark/archive/refs/tags/v1.0.zip
+  another_url: another value
